@@ -1,4 +1,4 @@
-1. ** Initial Analysis:**
+1. **Initial Analysis:**
    -First we performed basic data analysis , which  included checking the shape, examining data types, looking for missing values, checking the number of unique values in each column, identifying duplicate rows and knowing the mathematical description of data.
 
 2. **Exploratory Data Analysis (EDA) and Preprocessing:**
