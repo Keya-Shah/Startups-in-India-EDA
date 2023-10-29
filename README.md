@@ -1,5 +1,5 @@
 1. **Initial Analysis:**
-   -First we performed basic data analysis , which  included checking the shape, examining data types, looking for missing values, checking the number of unique values in each column, identifying duplicate rows and knowing the mathematical description of data.
+   - First we performed basic data analysis , which  included checking the shape, examining data types, looking for missing values, checking the number of unique values in each column, identifying duplicate rows and knowing the mathematical description of data.
 
 2. **Exploratory Data Analysis (EDA) and Preprocessing:**
    - Then we conducted EDA is to gain insights into the dataset. This includes visualizations and analyses of variables like blood pressure, body measurements, haemoglobin levels, cholesterol levels, etc.
