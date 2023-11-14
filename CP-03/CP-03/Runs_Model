@@ -1,0 +1,9 @@
+from pydantic import BaseModel
+
+class PlayerData(BaseModel):
+    Inns: float
+    Overs: float
+    Mdns: float
+    Econ: float
+    _4: float
+    _5: float
